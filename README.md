@@ -8,5 +8,7 @@ A deep learning chess engine with PyTorch
 
 The Colab is viewable [here](https://colab.research.google.com/drive/1V8KEI0qYJiqSAjN2vUTdpTHvw1pkrZB0?usp=sharing)
 
+I wrote an [article](https://owensmith.page/building-a-deep-learning-chess-engine/) covering some details in the preprocessing/model-architecture stages
+
 Enjoy!
 
